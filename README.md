@@ -2,9 +2,9 @@
 
 # 👩🏽‍💻 About Me
 
-Master's student at Sorbonne University, Paris, specializing in distributed and embedded systems <br>
+👩🏽‍🎓 Master's student at Sorbonne University, Paris, specializing in distributed and embedded systems <br>
 
-Looking for a **summer 2026 internship** to acquire hands-on experience <!--in software engineering-->
+🕵🏽‍♀️ Looking for a **summer 2026 internship** to acquire hands-on experience <!--in software engineering-->
 
 
 # 💻 Skills
@@ -32,11 +32,9 @@ Looking for a **summer 2026 internship** to acquire hands-on experience <!--in s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sofija-granet) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sofija.granet@gmail.com) 
 
----
-[![](https://visitcount.itsvg.in/api?id=sofija-13&icon=8&color=4)](https://visitcount.itsvg.in)
 
-<!--
----
+[![](https://visitcount.itsvg.in/api?id=sofija-13&icon=8&color=4)](https://visitcount.itsvg.in)
+<!-- 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sofija-13&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sofija-13&theme=rose&hide_border=false)<br/>
