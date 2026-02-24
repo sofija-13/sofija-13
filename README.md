@@ -2,7 +2,7 @@
 
 # 👩🏽‍💻 About Me
 
-👩🏽‍🎓 Master's student at Sorbonne University, Paris, specializing in distributed and embedded systems <br>
+👩🏽‍🎓 Master's student at Sorbonne University, Paris, specializing in systems and distributed applications <br>
 
 🕵🏽‍♀️ Looking for a **summer 2026 internship** to acquire hands-on experience <!--in software engineering-->
 
